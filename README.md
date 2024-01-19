@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Crazy-Di
-- 👀 I’m interested in manifold
+- 👀 I’m interested in Incremental Learning.
 - 🌱 I’m currently learning manifold
 - 💞️ I’m looking to collaborate on manifold
-- 📫 How to reach me 343177842@qq.com
+- 📫 How to reach me chaozhou_jn@icloud.com
 
 <!---
 Crazy-Di/Crazy-Di is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

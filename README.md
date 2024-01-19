@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Crazy-Di
 - 👀 I’m interested in Incremental Learning.
-- 🌱 I’m currently learning manifold
-- 💞️ I’m looking to collaborate on manifold
+- 🌱 I’m currently learning Incremental Learning.
+- 💞️ I’m looking to collaborate on Incremental Learning.
 - 📫 How to reach me chaozhou_jn@icloud.com
 
 <!---
